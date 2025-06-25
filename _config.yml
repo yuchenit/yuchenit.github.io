@@ -5,9 +5,9 @@ header-img: img/post-bg-desk.jpg
 email: yuchenwd@gmail.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, 落墨留白的博客, yuchenit, 落墨留白, Java, Apple, iPhone"
-url: "http://yuchenit.github.io"          # your host, for absolute URL
+url: "http://mobaiit.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/yuchenit/yuchenit.github.io.git" # you code repository
+github_repo: "https://github.com/mobaiit/mobaiit.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -18,12 +18,12 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-# weibo_username:     yuchenit
-#zhihu_username:     yuchenit
-#github_username:    yuchenit
+# weibo_username:     mobaiit
+#zhihu_username:     mobaiit
+#github_username:    mobaiit
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
-#twitter_username:   yuchenit
+#twitter_username:   mobaiit
 
 
 
@@ -57,16 +57,16 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: yuchenit
+# disqus_username: mobaiit
 
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: Ov23liPbgJ6jME9F5bSd                            #生成的clientID
   clientSecret: ba17eabb200cb37f9b6b8a3cd4dc8c8546479979    #生成的clientSecret
-  repo: yuchenit.github.io    #仓库名称
-  owner: yuchenit    #github用户名
-  admin: yuchenit
+  repo: mobaiit.github.io    #仓库名称
+  owner: mobaiit    #github用户名
+  admin: mobaiit
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -100,7 +100,7 @@ service-worker: true
 friends: [
     {
         title: "Github",
-        href: "https://github.com/yuchenit"
+        href: "https://github.com/mobaiit"
     },{
         title: "Apple",
         href: "https://apple.com"
